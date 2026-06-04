@@ -1,11 +1,8 @@
 /*
-** EPITECH PROJECT, 2026
-** snake
-** File description:
-** Descrption
+** snake Game / Victor Dfc
 */
 
-#include "my.h"
+#include "snake.h"
 
 int main(int ac, char **av)
 {

@@ -9,6 +9,9 @@
     #define project
     #include "utilslib.h"
 
+    #define ROW 20
+    #define COLUMNS 100
+
 // === TYPEDEFS ===
 
 // === FUNCTIONS ===
